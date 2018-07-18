@@ -5,16 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <script type="text/javascript">
 	var webPath="/cicpa2_web";
 </script>
@@ -25,7 +15,7 @@
  
 <HTML>
 <HEAD>
-<TITLE>中国注册会计师协会行业管理信息系统（二期）</TITLE>
+<TITLE>中国注管理信息系统（二期）</TITLE>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=GBK">
 <script src="/cicpa2_web/ccp/auth/script/js/common/common.js"></script>
 <script src="/cicpa2_web/components/NewDatePicker/WdatePicker.js"></script>
